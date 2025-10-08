@@ -1,0 +1,1 @@
+El objetivo de este Proyecto es desafiar a las personas que no saben tanto o que saben de la cocina que puedan armar recetas en el menor tiempo, nosotros le damos cartas con ingredientes y tienen que fijarse que pueden armar el que arma mas recetas en un tiempo determinado es el Ganador
