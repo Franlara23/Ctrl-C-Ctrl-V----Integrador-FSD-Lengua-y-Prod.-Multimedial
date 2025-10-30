@@ -1,362 +1,482 @@
 [
   {
-    "nombre": "Carne",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Cerdo",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pescado",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Queso",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pollo",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Atún",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Huevo",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Tofu",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Garbanzos",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Lentejas",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Jamón",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Camarón",
-    "tipo de carta": "Proteína",
-    "Valor de Carta": 3,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pan",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Arroz",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Fideos",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Papa",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Quinoa",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Maíz",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Avena",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Batata",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Tortilla (maíz)",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Polenta",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Noquis",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Couscous",
-    "tipo de carta": "Carbohidrato",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Naranja",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Manzana",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Banana",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Frutilla",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pera",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Durazno",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Kiwi",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Uvas",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Ananá",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Mango",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Ciruela",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pomelo",
-    "tipo de carta": "Fruta",
-    "Valor de Carta": 2,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Tomate",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Lechuga",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Zanahoria",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Brócoli",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Espinaca",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Cebolla",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pimiento",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Calabaza",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pepino",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Apio",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Berenjena",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Champiñón",
-    "tipo de carta": "Verdura",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Pimienta",
-    "tipo de carta": "Condimento",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Sal",
-    "tipo de carta": "Condimento",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
+    "Id": 1,
     "nombre": "Aceite de oliva",
     "tipo de carta": "Condimento",
     "Valor de Carta": 1,
-    "repeticiones": 3
+    "repeticiones": 3,
+    "Ruta": 1
   },
   {
-    "nombre": "Vinagre",
-    "tipo de carta": "Condimento",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Mostaza",
-    "tipo de carta": "Condimento",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Ketchup",
-    "tipo de carta": "Condimento",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Mayonesa",
-    "tipo de carta": "Condimento",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
-    "nombre": "Salsa de soja",
-    "tipo de carta": "Condimento",
-    "Valor de Carta": 1,
-    "repeticiones": 3
-  },
-  {
+    "Id": 2,
     "nombre": "Ajo en polvo",
     "tipo de carta": "Condimento",
     "Valor de Carta": 1,
-    "repeticiones": 3
+    "repeticiones": 3,
+    "Ruta": 2
   },
   {
-    "nombre": "Orégano",
-    "tipo de carta": "Condimento",
+    "Id": 3,
+    "nombre": "Ananá",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 3
+  },
+  {
+    "Id": 4,
+    "nombre": "Apio",
+    "tipo de carta": "Verdura",
     "Valor de Carta": 1,
-    "repeticiones": 3
+    "repeticiones": 3,
+    "Ruta": 4
   },
   {
-    "nombre": "Perejil",
-    "tipo de carta": "Condimento",
+    "Id": 5,
+    "nombre": "Arroz",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 5
+  },
+  {
+    "Id": 6,
+    "nombre": "Atún",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 6
+  },
+  {
+    "Id": 7,
+    "nombre": "Avena",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 7
+  },
+  {
+    "Id": 8,
+    "nombre": "Banana",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 8
+  },
+  {
+    "Id": 9,
+    "nombre": "Batata",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 9
+  },
+  {
+    "Id": 10,
+    "nombre": "Berenjena",
+    "tipo de carta": "Verdura",
     "Valor de Carta": 1,
-    "repeticiones": 3
+    "repeticiones": 3,
+    "Ruta": 10
   },
   {
+    "Id": 11,
+    "nombre": "Brócoli",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 11
+  },
+  {
+    "Id": 12,
+    "nombre": "Calabaza",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 12
+  },
+  {
+    "Id": 13,
+    "nombre": "Camarón",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 13
+  },
+  {
+    "Id": 14,
+    "nombre": "Carne",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 14
+  },
+  {
+    "Id": 15,
+    "nombre": "Cebolla",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 15
+  },
+  {
+    "Id": 16,
+    "nombre": "Cerdo",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 16
+  },
+  {
+    "Id": 17,
+    "nombre": "Champiñón",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 17
+  },
+  {
+    "Id": 18,
+    "nombre": "Ciruela",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 18
+  },
+  {
+    "Id": 19,
     "nombre": "Comino",
     "tipo de carta": "Condimento",
     "Valor de Carta": 1,
-    "repeticiones": 3
+    "repeticiones": 3,
+    "Ruta": 19
+  },
+  {
+    "Id": 20,
+    "nombre": "Couscous",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 20
+  },
+  {
+    "Id": 21,
+    "nombre": "Durazno",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 21
+  },
+  {
+    "Id": 22,
+    "nombre": "Espinaca",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 22
+  },
+  {
+    "Id": 23,
+    "nombre": "Fideos",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 23
+  },
+  {
+    "Id": 24,
+    "nombre": "Frutilla",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 24
+  },
+  {
+    "Id": 25,
+    "nombre": "Garbanzos",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 25
+  },
+  {
+    "Id": 26,
+    "nombre": "Huevo",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 26
+  },
+  {
+    "Id": 27,
+    "nombre": "Jamón",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 27
+  },
+  {
+    "Id": 28,
+    "nombre": "Ketchup",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 28
+  },
+  {
+    "Id": 29,
+    "nombre": "Kiwi",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 29
+  },
+  {
+    "Id": 30,
+    "nombre": "Lechuga",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 30
+  },
+  {
+    "Id": 31,
+    "nombre": "Lentejas",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 31
+  },
+  {
+    "Id": 32,
+    "nombre": "Maíz",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 32
+  },
+  {
+    "Id": 33,
+    "nombre": "Mango",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 33
+  },
+  {
+    "Id": 34,
+    "nombre": "Manzana",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 34
+  },
+  {
+    "Id": 35,
+    "nombre": "Mayonesa",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 35
+  },
+  {
+    "Id": 36,
+    "nombre": "Mostaza",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 36
+  },
+  {
+    "Id": 37,
+    "nombre": "Naranja",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 37
+  },
+  {
+    "Id": 38,
+    "nombre": "Noquis",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 38
+  },
+  {
+    "Id": 39,
+    "nombre": "Orégano",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 39
+  },
+  {
+    "Id": 40,
+    "nombre": "Pan",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 40
+  },
+  {
+    "Id": 41,
+    "nombre": "Papa",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 41
+  },
+  {
+    "Id": 42,
+    "nombre": "Pepino",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 42
+  },
+  {
+    "Id": 43,
+    "nombre": "Pera",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 43
+  },
+  {
+    "Id": 44,
+    "nombre": "Perejil",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 44
+  },
+  {
+    "Id": 45,
+    "nombre": "Pescado",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 45
+  },
+  {
+    "Id": 46,
+    "nombre": "Pimienta",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 46
+  },
+  {
+    "Id": 47,
+    "nombre": "Pimiento",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 47
+  },
+  {
+    "Id": 48,
+    "nombre": "Polenta",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 48
+  },
+  {
+    "Id": 49,
+    "nombre": "Pollo",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 49
+  },
+  {
+    "Id": 50,
+    "nombre": "Pomelo",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 50
+  },
+  {
+    "Id": 51,
+    "nombre": "Queso",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 51
+  },
+  {
+    "Id": 52,
+    "nombre": "Quinoa",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 52
+  },
+  {
+    "Id": 53,
+    "nombre": "Sal",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 53
+  },
+  {
+    "Id": 54,
+    "nombre": "Salsa de soja",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 54
+  },
+  {
+    "Id": 55,
+    "nombre": "Tofu",
+    "tipo de carta": "Proteína",
+    "Valor de Carta": 3,
+    "repeticiones": 3,
+    "Ruta": 55
+  },
+  {
+    "Id": 56,
+    "nombre": "Tomate",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 56
+  },
+  {
+    "Id": 57,
+    "nombre": "Tortilla (maíz)",
+    "tipo de carta": "Carbohidrato",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 57
+  },
+  {
+    "Id": 58,
+    "nombre": "Uvas",
+    "tipo de carta": "Fruta",
+    "Valor de Carta": 2,
+    "repeticiones": 3,
+    "Ruta": 58
+  },
+  {
+    "Id": 59,
+    "nombre": "Vinagre",
+    "tipo de carta": "Condimento",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 59
+  },
+  {
+    "Id": 60,
+    "nombre": "Zanahoria",
+    "tipo de carta": "Verdura",
+    "Valor de Carta": 1,
+    "repeticiones": 3,
+    "Ruta": 60
   }
 ]
