@@ -4,4 +4,6 @@ Cada carta tiene un valor de sabor según su tipo: las proteínas valen 3 puntos
 
 El objetivo final es acumular más puntos que el resto al finalizar los seis turnos. Aunque se puede inventar recetas nuevas, las combinaciones oficiales son las que dan los mayores beneficios y puntos al sumarte más puntos gracias a los bonus.
 
+En el sprint 5, tuvimos que hacer un play testing para probar la jugabilidad de las pantallas diseñadas, al darnos cuenta que eran totalmente inutiles y incomodas tuvimos que rehacer los bocetos de las pantallas, y asi mismo rehacer el codigo.
+
 En resumen, Cuki mezcla velocidad, memoria y estrategia culinaria: gana quien piense rápido, combine mejor los ingredientes y recuerde las recetas con bonus para convertirse en el Chef Supremo Cuki.
