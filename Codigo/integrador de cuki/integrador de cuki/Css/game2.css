@@ -1,0 +1,300 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #fbe3a1;
+  background-image: url('../Assets/img/fondo2.png'); 
+  background-repeat: repeat;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.juego {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.jugadores {
+  width: 90%;
+  max-width: 1200px;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fbe3a1;
+  border-radius: 40px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-bottom: 40px; 
+}
+
+
+.jugador {
+  width: 350px;
+  height: 350px;
+  background-color: #f5d28a;
+  border-radius: 30px;
+  text-align: center;
+  padding: 30px 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.jugador h2 {
+  background-color: #6b4a1c; 
+  color: white;
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 1.8em;
+}
+
+.puntos {
+  font-size: 4em;
+  font-weight: bold;
+  color: #6b4a1c; 
+  background-color: #eac07a;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.versus {
+  width: 350px;
+  height: 350px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.versus span {
+  font-size: 3em;
+  font-weight: bold;
+  color: #6b4a1c;
+  margin-bottom: 20px;
+}
+
+.icono-chef {
+  width: 120px;
+  height: 120px;
+  background-image: url('../img/chef\ logo.png'); 
+  background-size: cover;
+  background-position: center;
+}
+
+.boton-inicio {
+  margin-top: 20px;
+}
+
+.boton-inicio a {
+  text-decoration: none;
+ background-color: #f5d28a;
+  color: white;
+  font-size: 2em;
+  padding: 20px 50px;
+  border-radius: 20px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+  transition: background-color 0.3s ease;
+}
+
+.boton-inicio a:hover {
+  background-color: #6b4a1c; 
+}
+
+.boton-inicio a:hover {
+  background-color: #6b4a1c; 
+}
+
+
+@media (max-width: 1200px) {
+  .jugadores {
+    flex-direction: column;
+    gap: 30px;
+    padding: 30px;
+  }
+  
+  .jugador {
+    width: 320px;
+    height: 320px;
+  }
+  
+  .versus {
+    width: 320px;
+    height: 320px;
+  }
+  
+  .versus span {
+    font-size: 2.5em;
+  }
+}
+
+@media (max-width: 992px) {
+  body { padding: 10px; }
+  
+  .jugadores {
+    width: 95%;
+    padding: 25px;
+    margin-bottom: 30px;
+  }
+  
+  .jugador {
+    width: 280px;
+    height: 280px;
+    padding: 20px 15px;
+  }
+  
+  .jugador h2 {
+    font-size: 1.5em;
+    padding: 10px;
+  }
+  
+  .puntos {
+    font-size: 3em;
+    padding: 15px;
+  }
+  
+  .versus {
+    width: 280px;
+    height: 280px;
+  }
+  
+  .versus span {
+    font-size: 2.2em;
+  }
+  
+  .icono-chef {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .boton-inicio a {
+    font-size: 1.5em;
+    padding: 15px 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  body { padding: 8px; }
+  
+  .juego {
+    justify-content: flex-start;
+    padding-top: 20px;
+  }
+  
+  .jugadores {
+    width: 100%;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+  }
+  
+  .jugador {
+    width: 240px;
+    height: 240px;
+    padding: 15px 10px;
+  }
+  
+  .jugador h2 {
+    font-size: 1.3em;
+    padding: 8px;
+  }
+  
+  .puntos {
+    font-size: 2.5em;
+    padding: 12px;
+  }
+  
+  .versus {
+    width: 240px;
+    height: 240px;
+  }
+  
+  .versus span {
+    font-size: 1.8em;
+  }
+  
+  .icono-chef {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .boton-inicio a {
+    font-size: 1.2em;
+    padding: 12px 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 5px;
+    height: auto;
+    min-height: 100vh;
+  }
+  
+  .juego {
+    justify-content: flex-start;
+    padding: 10px 5px;
+    height: auto;
+  }
+  
+  .jugadores {
+    width: 100%;
+    flex-direction: column;
+    gap: 15px;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+  }
+  
+  .jugador {
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+    padding: 12px 8px;
+  }
+  
+  .jugador h2 {
+    font-size: 1.1em;
+    padding: 6px;
+  }
+  
+  .puntos {
+    font-size: 2em;
+    padding: 10px;
+  }
+  
+  .versus {
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+  }
+  
+  .versus span {
+    font-size: 1.5em;
+  }
+  
+  .icono-chef {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .boton-inicio {
+    margin-top: 10px;
+  }
+  
+  .boton-inicio a {
+    font-size: 1em;
+    padding: 10px 20px;
+  }
+}

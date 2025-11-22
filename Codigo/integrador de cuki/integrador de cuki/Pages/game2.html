@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Juego de Cocina</title>
+  <link rel="stylesheet" href="../Css/game2.css">
+  <script src="../script/game2.js" defer></script>
+</head>
+<body>
+  <main class="juego">
+  <section class="jugadores">
+    <div class="jugador" id="jugador1">
+      <h2 class="nombre-jugador" data-jugador="1">JUGADOR 1</h2>
+      <input type="text" class="input-nombre" data-jugador="1" placeholder="Nombre del Jugador 1" style="display: none;">
+      <div class="puntos">0</div>
+    </div>
+    <div class="versus">
+      <span>VS</span>
+      <div class="icono-chef"></div>
+    </div>
+    <div class="jugador" id="jugador2">
+      <h2 class="nombre-jugador" data-jugador="2">JUGADOR 2</h2>
+      <input type="text" class="input-nombre" data-jugador="2" placeholder="Nombre del Jugador 2" style="display: none;">
+      <div class="puntos">0</div>
+    </div>
+  </section>
+
+  <div class="boton-inicio">
+    <a href="jugador1.html">INICIAR PARTIDA</a>
+  </div>
+</main>
+</body>
+</html>

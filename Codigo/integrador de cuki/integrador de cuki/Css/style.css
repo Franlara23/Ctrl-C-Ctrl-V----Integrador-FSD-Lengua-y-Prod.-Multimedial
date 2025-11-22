@@ -1,0 +1,258 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #fbe3a1;
+  background-image: url('../Assets/img/fondo2.png'); 
+  background-repeat: repeat;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 10px;
+  overflow-x: hidden;
+}
+
+/* Estilos para la intro de video */
+.intro-video-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  opacity: 1;
+  transition: opacity 0.5s ease-out;
+}
+
+.intro-video-container.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.intro-video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.skip-intro-btn {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  padding: 12px 30px;
+  background: rgba(255, 215, 0, 0.9);
+  color: #333;
+  border: 2px solid #8B4513;
+  border-radius: 25px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 10000;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.skip-intro-btn:hover {
+  background: rgba(255, 215, 0, 1);
+  transform: scale(1.08);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+}
+
+.skip-intro-btn:active {
+  transform: scale(0.95);
+}
+
+.skip-intro-btn.hidden {
+  display: none;
+}
+
+.pantalla-inicio {
+  text-align: center;
+}
+.logo {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.gorro-chef {
+  width: 160px;
+  height: 120px;
+  background-image: url('../Assets/img/chef\ logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: -76px; 
+}
+
+.logo h1 {
+  font-size: 7em; 
+  background-color: #6b4a1c; 
+  color: white;
+  padding: 40px 120px; 
+  border-radius: 40px;
+  display: inline-block;
+}
+
+
+.botones {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
+
+.btn {
+  text-decoration: none;
+  font-size: 2.5em; /* más grande */
+  padding: 25px 80px; /* más alto y ancho */
+  border-radius: 20px;
+  font-weight: bold;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+  transition: transform 0.2s ease;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+.jugar {
+  background-color: #6b4a1c; 
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.reglas {
+  background-color: #6b4a1c; 
+  color: white;
+}
+
+@media (max-width: 1200px) {
+  .logo {
+    margin-bottom: 20px;
+  }
+  
+  .gorro-chef {
+    width: 140px;
+    height: 100px;
+    margin-bottom: -60px;
+  }
+  
+  .logo h1 {
+    font-size: 5em;
+    padding: 30px 80px;
+  }
+  
+  .btn {
+    font-size: 2em;
+    padding: 20px 60px;
+  }
+}
+
+@media (max-width: 992px) {
+  body { padding: 10px; }
+  
+  .logo {
+    margin-bottom: 15px;
+  }
+  
+  .gorro-chef {
+    width: 120px;
+    height: 80px;
+    margin-bottom: -50px;
+  }
+  
+  .logo h1 {
+    font-size: 4em;
+    padding: 25px 60px;
+  }
+  
+  .btn {
+    font-size: 1.6em;
+    padding: 15px 50px;
+  }
+  
+  .botones {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  body { padding: 8px; }
+  
+  .pantalla-inicio {
+    width: 100%;
+  }
+  
+  .logo {
+    margin-bottom: 15px;
+  }
+  
+  .gorro-chef {
+    width: 100px;
+    height: 70px;
+    margin-bottom: -40px;
+  }
+  
+  .logo h1 {
+    font-size: 2.8em;
+    padding: 20px 40px;
+    border-radius: 20px;
+  }
+  
+  .btn {
+    font-size: 1.3em;
+    padding: 12px 35px;
+  }
+  
+  .botones {
+    gap: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 5px;
+    min-height: 100vh;
+  }
+  
+  .pantalla-inicio {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .logo {
+    margin-bottom: 10px;
+  }
+  
+  .gorro-chef {
+    width: 80px;
+    height: 60px;
+    margin-bottom: -30px;
+  }
+  
+  .logo h1 {
+    font-size: 2em;
+    padding: 15px 30px;
+    border-radius: 15px;
+  }
+  
+  .btn {
+    font-size: 1em;
+    padding: 10px 25px;
+    border-radius: 15px;
+  }
+  
+  .botones {
+    gap: 12px;
+  }
+}
