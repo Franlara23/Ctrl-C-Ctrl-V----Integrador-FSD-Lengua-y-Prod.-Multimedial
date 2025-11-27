@@ -4,7 +4,7 @@
 
 ## 🎮 Descripción y Reglas
 
-La partida se juega en **6 turnos de 30 segundos**. En cada turno, los jugadores seleccionan ingredientes (uno por categoria en cada receta) para construir sus platos y acumular puntos.
+La partida se juega en **10 turnos de 30 segundos**. En cada turno, los jugadores seleccionan ingredientes (uno por categoria en cada receta) para construir sus platos y acumular puntos.
 
 ### Dinámica de Juego
 El desafío combina velocidad, memoria y estrategia. Aunque el puntaje final depende del valor de las cartas, el concepto invita a recordar combinaciones y tomar decisiones rápidas para convertirse en el **Chef Supremo Cuki**.
