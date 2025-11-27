@@ -102,7 +102,7 @@ Desarrollado como parte del proyecto final para **FDS, LENGUA Y PROD. MULT.**.
 
 
 ---
-Link presentación: https://www.canva.com/design/DAG5YiuaiS8/FCZJu_23TmAk-coVnFoMKw/edit?utm_content=DAG5YiuaiS8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+Link presentación: https://www.canva.com/design/DAG505QK62w/EenaapaMEglgbqa283ySoQ/edit?utm_content=DAG505QK62w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 ---
 *¡Cociná tu estrategia y convertite en el Chef Supremo Cuki!* 👨‍🍳🔥
 ```
